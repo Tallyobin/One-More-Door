@@ -1,802 +1,489 @@
-CMPDI!173, Semester 1, 2022/2023
+Maybank Malaysia Berhad wants to develop a new mobile application (app) dedicating to fund investment. Maybank hires IBM Malaysia to develop the app for them. Maybank Malaysia Berhad is known as _____.
 
-SECTION A: MULTIPLE CHOICES (15 QUESTIONS, 30 MARKS)
+```
+   A. people
+ = B. system owner
+   C. system developer
+   D. users
+```
 
-I,
+<br>
 
-Instruction: Please CHOOSE the BEST answer from the choices given.
+Astro is in the process of collecting information about its customers' details. They want to conduct an analysis about their customers' demographics such as age, gender and income. They send out emails with link to online survey to all of their customers. For all answered questionnaire, the customer will receive a gift voucher. Which of the followings is data? 
 
-The information system is coded, test and installed in the client’s organization
-during the phase.
+```
+   A. surveys sent to customers
+ = B. survey answered by customers
+   C. analyzed data about customers' demographics
+   D. gift vouchers
+```
 
-A. maintenance
+<br>
 
-B. implementation
-C. planning
-D.
+Rasa Sayang Hotel wants to modify its registration system. Ali, the Director of Customer Service Department noticed that the existing system does not cater for giving points for repeating customers. Ali recommends that by giving points which can be transferred to a discount voucher will attract more repeating customers. So, Ali pitched this idea to the hotels' IT team. However, the IT team is not able to modify the current system as they are just focusing at the technical aspects of the computers and network. Because of that, Rasa Sayang Hotel decided to pass the project to Teknologi Malaysia Sdn Bhd.
 
-analysis
+Which type of hardware will be used for this information system?
 
-Which of the following request for proposal’s activities is conducted after
-evaluating all the vendors’ proposal?
+```
+   A. tablets
+ = B. workstations
+   C. mobile phones
+   D. smart TVs
+```
 
-A. Request for proposal is posted.
+<br>
 
-B. Demonstrations from the shortlisted vendors.
+Enterprise solution software is combination of many softwares for a specific company. 
 
-C. Answers to vendors’ questions are posted.
+```
+ = True
+   False
+```
 
-D. Receiving all the vendors’ proposals.
+<br>
 
-generates software that serve many market segments and the
-software meets 70% of the client’s need.
-A. IT service firm
-B. Packaged software producer
-C. In house developer
-D
+Tools are typically computer programs that make it easy to use and benefit from techniques and to faithfully follow the guidelines of the overall development methodology.
 
-. Open-source software provider
+```
+ = True
+   False
+```
 
-. Which of the following activities is NOT executed during the planning phase?
+<br>
 
-A. Structuring the information system’s requirements.
 
-B. Identifying potential information system projects.
+Maybank Malaysia Berhad wants to develop a new mobile application (app) dedicating to promote their services. Maybank hires IBM Malaysia to develop the app for them. Maybank Malaysia Berhad wants the app to send out flyers, advertisements and notifications to their customers. This project is known as a/an _______ project.
 
-C. Classifying the shortlisted information system projects.
-D
+```
+   A. open source 
+   B. financial
+   C. in-house
+ = D. outsource
+```
 
-. Selecting the most suitable information system project.
+<br>
 
-Page 2 of 11
+Rasa Sayang Hotel wants to modify its registration system. Ali, the Director of Customer Service Department noticed that the existing system does not cater for giving points for repeating customers. Ali recommends that by giving points which can be transferred to a discount voucher will attract more repeating customers. So, Ali pitched this idea to the hotels' IT team. However, the IT team is not able to modify the current system as they are just focusing at the technical aspects of the computers and network. Because of that, Rasa Sayang Hotel decided to pass the project to Teknologi Malaysia Sdn Bhd.  
 
-CMPDI73, Semester 1, 2022/2023
+Which software source is applied?
 
-5. Which of the following documentations are NOT the deliverables for project
-initiation?
-J. _ Baseline project plan
-II. Interview guide
-HI. Project charter
+```
+   A. In-house development
+ = B. IT Services Firm
+   C. Enterprise Solutions Software
+   D. Cloud Computing 
+```
 
-IV. Management procedures
+<br>
 
-I and II
+Astro is in the process of collecting information about its customers' details. They want to conduct an analysis about their customers' demographics such as age, gender and income. They send out emails with link to online survey to all of their customers. For all answered questionnaire, the customer will receive a gift voucher. Which of the followings is information? 
 
-I and II]
-II and II
-. Land IV
+```
+   A. survey answered by customers
+ = B. analyzed data about customers' demographics
+   C. gift vouchers
+   D. surveys sent to customers
+```
 
-TA w >
+<br>
 
-6. Which of the following diagrams are NOT generated in analysis phase?
-I. Network diagram
-IJ. Swimlane flowchart
-II. Functional decomposition diagram
+Which of the following methodology is suitable for clients that are eager to be a part of the development process?
 
-IV. Wireframe blueprint
+```
+   A. System Development Life Cycle
+   B. Object Oriented Application Development
+   C. Rapid Application Development
+ = D. AGILE
+```
 
-. Land III
-IT and IV
-II and III
-. TLand IV
+<br>
 
-TO WwW >
+It is important to involve only certain stakeholders in the requirements gathering process. 
 
-7. Identify the contemporary requirement gathering techniques from the options given
-below.
-I, System prototypes
-II. Observing workers
-IJ. Joint application design
+```
+   True
+ = False
+```
 
-IV. Analysing business documents
+<br>
 
-I and I
+The primary purpose of using JAD in the analysis phase is to collect systems requirements simultaneously from the key people involved with the system.
 
-I and III
-II and Ill
-. Tand IV
+```
+ = True
+   False
+```
 
-9 OO Wp
+<br>
 
-Page 3 of 11
+**Prepare a Functional Decomposition Diagram(FDD) based on the case scenario given below. You need to draw the FDD on a piece of paper. Take photo of your work and save as JPEG, JPG, GIF, BMP, PNG or PDF. Upload the file in the given area here.** <br>
 
-CMPD173, Semester 1, 2022/2023
+**Case scenario** <br>
 
-represents the lowest level of a data flow diagram.
-. balanced DFD
+You had interviewed Mr Tahir Suhaimi who is the Operation Senior Manager, ITMS, UNITEN. From the interview session, these are the details you gathered about the classrooms booking process. Change the details by structuring the requirements using FDD (swimlane flowchart).<br>
 
-decomposed DFD
+1. Lecturers make their bookings using the booking system online. Lecturers need to login into the system.<br>
+2. Lecturers need to first identify the date and timeslot for class. The system will display a selection of available classrooms. However, if there are no available classrooms, the system will ask the lecturers to choose another date and timeslot or end the process.<br>
+3. Lecturers must accept only one option. A notification will be sent to lecturers as successful booking.<br>
+4. For all successful booking, the technician will receive the same notification. The technician has to make sure the classrooms are in working order. If there is any problem, the technician can cancel the booking, and a notification will be sent to the lecturers. If there is no problem, a virtual key will be given to lecturers to use the classrooms.<br>
+5. Once lecturers complete using the classrooms, lecturers need to end the booking process by pressing the COMPLETE button in the system.<br>
 
-primitive DFD
+![Slide1](https://github.com/Tallyobin/One-More-Door/assets/156051265/c173dc00-d5c7-41b3-a0d4-3e2702a795b6)<br>
 
-OO WP y
+Comment: your numbering are wrong for all of your subprocesses/subtasks.
 
-context diagram
+<br>
 
-9, Which of the following elements is NOT a part of use case description?
-I, Special requirements
-II. Indifferent conditions
-III. Action stubs
+Which phase of the SDLC is responsible for developing the system components and code?
 
-IV. Preconditions
+```
+   a. Analysis
+ = b. Implementation
+   c. Design
+   d. Planning
+```
 
-I and II
+<br>
 
-. Land II
-. I and III
-. Land IV
+Which of the following is **NOT** a project initiation activity?  
 
-0 Ow >
+```
+   a. Establishing a relationship with the customer.  
+   b. Establishing the project duration, start and end dates.
+   c. Establishing the project initiation team. 
+ = d. Dividing the project into manageable tasks. 
+```
 
-10. Which of the following options belong to the category of structured UML diagram?
-I. State machine diagram
-II. Component diagram
-II. Deployment diagram
+<br>
 
-IV. Use case diagram
+Which of the following is **NOT** a phase of the system development life cycle (SDLC)?
 
-. Tand Il
+```
+   a. System design.
+ = b. System development.
+   c. System Implementation.
+   d. System Maintenance.
+```
 
-. Land III
-. and II
-. TLandIV
+<br>
 
-GOO WB >
+Which of the following is **NOT** a benefit of using a structured SDLC methodology?
 
-11.The interaction method uses symbols to represent commands or
+```
+ = a. Increased cost and schedule overruns.
+   b. Improved system quality and maintainability.
+   c. Reduced risk of errors and defects.
+   d. Improved communication and collaboration between team members.
+```
 
-functions.
+<br>
 
-A. object-based
+An assessment of the development group's understanding of the possible target hardware, software, and operating environments, system size, complexity, and the group's experience with similar systems should be included as part of ___ feasibililty. 
 
-B. natural language
-C. command language
-D. drop-down menu
+```
+   a. economic
+ = b. technical
+   c. operational
+   d. legal
+```
 
-Page 4 of 11
+<br>
 
-CMPD173, Semester 1, 2022/2023
+Project: To develop UNITEN new website<br>
 
-12. Determine the valid guidelines for displaying text on the screen display, from the
+| Identifier | Tasks | Predecessor | Duration (months) |
+|------------|-------|-------------|-------------------|
+| A | Prepare proposal | - | 2 |
+| B | Approve Proposal | A | 1 |
+| C | Decision Making for in-house/outsource | B | 1 |
+| D | List all functionalities & requirements | - | 3 |
+| E | Prepare Project Charter, BPP and PSS | C, D | 1 |
+| F | Start System Development | E | 3 |
+| G | Testing and Installation | F | 1 |
 
-options given below.
+*Set your duration column on monthly basis.<br>
 
-09 OQ WwW >
+Based on the WBS shown, **draw a gantt chart** on a piece of paper. Once done, take a photograph of your answer (make sure it is clear and readable), and upload the image/file into the area specified.  The image should either be jpg, jpeg, gif, png or pdf only.<br>
 
-J. Texts should be displayed in the mixed upper and lowercase.
-If. Texts should be aligned in the form of left-justified.
-III. Words between lines should always be hyphenated.
+Assuming this project starts on 4th December 2023 (Friday), **how long is this project in total** and **when is the end date of this project?** <br>
 
-IV. Different lines of text should be distanced with single spacing.
+![Gantt](https://github.com/Tallyobin/One-More-Door/assets/156051265/369c019b-d86d-4b15-babb-af8beb4472e3)<br>
 
-. Land I
+Comment: end date - 3 sept 2024
 
-. Land Il
+<br>
 
-. ILand IV
-. Tl and IV
+Identify the **CORRECT** economic feasibility category for each of these statements.<br>
 
-13. A dialogue __ shows the ways a user can move from one display to another.
+**Competitive advantage**: Marrybrown's new supply chain management (SCM) system can help businesses improve their inventory management and order fulfillment processes, which can lead to lower costs and faster delivery times for customers.
 
-A.
-B.
-C.
-D.
+```
+Tangible benefits,
+```
 
-sequence
-diagram
-structure
+<br>
 
-interface
+**Lost productivity**: Marrybrown employees may need to be diverted from their regular work duties to participate in the development and implementation of the new system. This can lead to lost productivity and decreased efficiency.
 
-14. Which of the following system testing are being conducted manually?
+```
+intangible cost,
+```
 
-09 OW p>
+<br>
 
-I. ‘Unit testing
-IJ. Syntax checking
-IJ. Desk checking
+**Hardware costs**: The cost of the hardware required to run the new CRM system, such as servers, workstations, and network equipment.
 
-IV. Inspection
+```
+tangible cost, one-time,
+```
 
-. Land I
+<br>
 
-. Land IJ]
+**Testing and deployment costs**: Once Marrybrown app is developed, it needs to be tested thoroughly to ensure that it is free of bugs and meets the needs of users. The cost of testing depends on the number of testers and will be conducted for 6 months.
 
-. and IV
-. II and IV
+```
+Tangible cost, recurring, variable,
+```
 
-Page 5 of 11
+<br>
 
-CMPD173, Semester 1, 2022/2023
+**Maintenance and support costs**: Marrybrown spends $50,000 per year on maintaining and supporting a new customer relationship management (CRM) system.
 
-15. Which of the statements are NOT the purpose of conducting system
-implementation?
-J. | Toconvert physical system specifications into a working software.
-I]. To provide help for the current and future users.
-III. To transform logical design into technology-specific details.
+```
+Tangible cost, recurring, fixed,
+```
 
-IV. To repair and improve the current information system.
+<br>
 
-. Land IJ
+**Improved customer service**: Marrybrown's new customer relationship management (CRM) system helps businesses to track customer interactions and preferences, which can lead to more personalized and responsive customer service.
 
-. Land Il
-. Tand IV
-. TI and IV
+```
+Intangible benefits
+```
 
-0900 BD Pp
+<br>
 
-Page 6 of 11
+During requirements determination, information can be gathered from users of the current system, forms, reports, and procedures.
 
-CMPDI173, Semester 1, 2022/2023
+```
+ = True
+   False
+```
 
-SECTION B: SHORT ANSWER QUESTIONS (6 QUESTIONS, 45 MARKS)
+<br>
 
-Instruction: Please answer ALL the questions.
+**Case study** <br>
 
-Question 1
-(a) Name and briefly explain TWO (2) important information system’s elements.
-[4 marks]
+CIMB Malaysia now offers digital banking services through their CIMB Clicks Mobile App (formerly CIMB EVA) for their current cardholders. This app is their portal that lets you check your account balance, view transaction history, transfer money, purchase online, and pay bills and loans.<br>
 
-(b) Being an experienced system analysist, what are TWO (2) consideration criteria
-while you are selecting an off-the-shelf software?
-[4 marks]
+Their app also lets you top up your credit and start investing through their e-IPO, ASNB, Travel Currency, and more. This ensures that your investment platform is safe and secured from malware or hacking.<br>
 
-Question 2
-(a) Discuss TWO (2) types of project feasibility that can be assessed by a system
-analyst.
-[4 marks]
+CIMB Clicks Mobile App has FaceID & TouchID feature that lets you log in without typing your username or password which is pretty convenient when you’re paying using QR. Because this digital app is new, they feature a “Revamped’ home screen that is more user-friendly than the previous app.<br>
 
-(b) Name and briefly introduce TWO (2) types of interview questions that can be
-asked during the activity of requirement determination. You will then explain
-ONE (1) limitation for each question type.
-[6 marks]
+In case you don’t have a CIMB account yet, you can just visit their website and apply for an account online. Also, if you are a Samsung user, CIMB has a Partner Pay Solution with them that purchases from numerous retail stores in Malaysia. <br>
 
-Question 3
-Determine TWO (2) mistakes from the following data flow diagram. Support your
+**You are required to come up with a SSR (system service request). Answer ALL of these FOUR questions by typing your answers here in Brighten.** <br>
 
-answers with relevant justifications.
+**Questions** <br>
+1. Identify what is the information system mentioned in the case study. [1m]<br>
+2. Identify SIX (6) functionalities (business processes) mentioned in the case study. [6m]<br>
+3. Identify the expected value from the information system mentioned in the case study (1 - tangible benefit and 1 intangible benefit) [2m]<br>
+4. List one (1) special issue/constraint identified from the case study. [1m]<br>
 
- 
- 
+```
+System Service Request (SSR): CIMB Clicks Mobile App Enhancement
 
-Calculate monthly
-salary
+1. CIMB Clicks Mobile App
 
- 
- 
+2. Check account balance, view transaction history, transfer money, purchase online, pay bills and loans, invest through e-IPO, ASN   B. 
 
-time
-record
+3.
+Tangible Benefit: Enhanced Security: FaceID & TouchID features ensure secure logins, protecting users from unauthorized access and potential financial risks.
+Intangible Benefit: Improved User Experience: The "Revamped" home screen contributes to a more user-friendly interface, enhancing overall user satisfaction and engagement.
 
- 
-  
-  
-    
+4. Ensuring the security and integrity of user data and financial transactions, especially with the implementation of advanced features like FaceID & TouchI   D. 
+```
 
-nett salary
+Comment: Q3a - must state in numbers or %
 
-employee
-pay check
+<br>
 
-    
- 
+Which system methodology is most widely used?
 
-Print employee pay
-check
+```
+   a. RAD
+   b. Agile
+   c. OOAD
+ = d. SDLC
+```
 
-Figure 1
+<br>
 
-    
-   
+Which methodology is best suited for projects with rapidly changing requirements?
 
-Pay check file
+```
+   a. Prototyping
+   b. OOAD
+   c. SDLC
+ = d. Agile
+```
 
-  
+<br>
 
-Pay check
-record
+Prepare a context diagram based on these details.<br>
 
- 
- 
+LAZADA is one of the Malaysia’s biggest online clothing trading companies. With LAZADA, it allows different users to work within the system for different purposes. LAZADA customers could order their preferred clothes and receive receipt for the purchases made. Clothes supplier could access the clothes order and send receipt to the customer who bought their products through LAZAD   A.  At the same time, clothes stores will accept the clothes order to process for shipment. At the end of each month, all data of the sales made in LAZADA will be compiled and management reports will be prepared based on those dat   a.  These management report will be sent to Sales Manager.<br>
 
-[4 marks]
+Upload your diagram here. You may save it as pdf, png, gif, jpe, jpg, or jpeg.<br>
 
-Page 7 of 11
+![20231220_200904](https://github.com/Tallyobin/One-More-Door/assets/156051265/ad77ad1f-3ffd-4eba-9d4d-75b3bc0e33f5)
 
-CMPD173, Semester 1, 2022/2023
+<br>
 
-Question 4
-UML, is the abbreviation for Unified Modelling Language.
-(a) What do you understand about UML?
-[2 marks]
+How many external entities identified?
 
-(b) Determine TWO (2) advantages of object modelling with UML.
-[4 marks]
+```
+   A. 3
+   B. 5
+ = C. 4
+   D. 2
+```
 
-Question 5
+<br>
 
-(a) The following diagram represents a screen, which uses interacting method X.
+For external entity **clothes stores**, which type of entity is it?
 
- 
+```
+ = A. Sink
+   B. Source
+   C. Entity
+   D. Source & sink
+```
 
- 
+<br>
 
-OQ Zoom - OC) x
-. CO t ese ®
-Search Cutt a Chat we More G
-A new version is available! Update x
-0
-New Meeting ~ Join
-© ©
-Schedule Share Screen |
-Figure 2
-(1) Name and briefly introduce about interaction method X.
-[3 marks]
-(11) Determine TWO (2) advantages of interaction method X.
-[2 marks]
+**Management report/s** is/are known as _______ to a context diagram.
 
-Page 8 of 11
+```
+ = A. output
+   B. sink
+   C. input
+   D. report
+```
 
-CAIPD173, Semester 1, 2022/2023
+<br>
 
-(b) List out FOUR (4) important guidelines of formatting form and report.
-[4 marks]
+For external entity **customer**, which type of entity is it?
 
-Question 6
-(a) List out and briefly explain TWO (2) types of user acceptance testing.
-[4 marks]
+```
+   A. Sink
+   B. Source
+ = C. Source & Sink
+   D. Entity
+```
 
-(b) What are the TWO (2) main types of supports that can be offered to the
-information system users? What is the main difference between these two types
+<br>
 
-of supports?
-[4 marks]
+When designing a form, for data entry, users should be required to enter the current date and time.
 
-Page 9 of 11
+```
+   True
+ = False
+```
 
-CMPD173, Semester 1202272023
+<br>
 
-SECTION C: DIAGRAMMING QUESTIONS (2 QUESTIONS, 25 MARKS)
+A normal conversation is a method by which users interact with information systems.
 
-Instruction: Please answer ALL the questions.
+```
+   True
+ = False
+```
 
-Question 1
-Develop a DFD level 0 for LLM computer equipment ordering system, which is
-described in the following narrative.
+<br>
 
-When the system receives a purchase order from its customer, it will verify the
-customer’s membership by referring to member info in the member file. If the customer
-is not an active member, the system will reject the order by sending an order reject
-notice to the customer. If the customer is an active member, the order will be accepted
-and it will then serve as input for the process of filling up order. This process will then
-generate picking list and forward it to the warehouse staff. Once the stocks have been
-packed by warehouse staff, a completed order form will be submitted by the warehouse
-staff. This form will serve as an input to activate the process of creating invoice. An
-invoice will then be sent to the customer, besides being updated into the account
-receivable file. A customer can make payment upon receiving the invoice. The payment
-will be accepted by the process of applying payment, which also requires invoice details
-from the account receivable file. The following outputs will be returned, upon
-completing the process of applying payment: (i) payment details will be updated back
-to the account receivable data store, (11) commission will be sent to the sales department,
-(111) cash receipt entry will be issued to the accounting department. The system can also
-generate sales report, upon receiving the report request from the supervisor. The sales
+A highly intuitive human-computer interaction method where data fields are formatted in a manner similar to paper-based forms is known as ______.
 
-report details are retrieved from the account receivable file.
-[15 marks]
+```
+   A. object-based interaction
+ = B. form interaction
+   C. human computer interaction
+   D. menu interaction
+```
 
-Page 10 of 11
+<br>
 
-Question 2
+This type of menu positioning method places the access point of the menu near the top line of the display; when accessed, menus open by dropping down onto the display.
 
-LLM bank considers the customer’s loan application based on the following policies:
+```
+   A. pop-up menu
+   B. listed menu
+   C. list of option
+ = D. drop-down menu
+```
 
-C'MPD173, Semester 1, 2022/2023
+<br>
 
-The holding duration of applicant in the current job: (i) more than 3 years, (ii)
+ A human-computer interaction method where inputs to and outputs from a computer-based application are in a conventional spoken language such as English refers to as ______.
 
-not more than 3 years
+```
+ = A. natural language interaction
+   B. command line interaction
+   C. English language interaction
+   D. command based interaction
+```
 
-Applicant’s monthly salary: (i) more than RM5000, (ii) not more than RM5000
+<br>
 
-The staying duration of applicant in the same city: (1) more than 5 years, (ii)
+A method by which users interact with information systems defines ______.
 
-lesser than or equal to 5 years
+```
+   A. method
+   B. dialogue
+ = C. interface
+   D. interaction
+```
 
-An applicant’s loan will be approved if he/she fulfils either one of the following
+<br>
 
-rules:
+Commonly used methods for highlighting include each of the following EXCEPT ______. 
 
-O
+```
+   A. spacing
+   B. all capital letters
+   C. boxing
+ = D. underlining
+```
 
-Has been holding the current job for more than 3 years, earning monthly
-salary which is more than RM5000 and has been staying in the same city
-for more than 5 years
+<br>
 
-Has been holding the current job for more than 3 years, earning monthly
-salary which is more than RM5000 but has been staying in the same city
-for not more than 5 years
+Using lists to break information into manageable pieces conforms to the SOS guideline or report is known as ______.
 
-Has been holding the current job for more than 3 years, has been staying
-in the same city for more than 5 years, but earning monthly salary which
-is not more than RM5000
+```
+ = A. organize
+   B. shortcuts
+   C. chaos
+   D. simplicity
+```
 
-Has been holding the current job for not more than 3 years, has been
-staying in the same city for more than 5 years, and earning monthly
+<br>
 
-salary which is more than RM5000
+Interface design focuses on _____.
 
-Generate a complete decision table which best represents the above-mentioned
+```
+ = A. how information is provided and captured from users
+   B. the design of forms and reports
+   C. how to connect to system files and databases
+   D. turning design specifications into working computer code
+```
 
-scenario. You shall simplify the decision table (if necessary).
+<br>
 
-{10 marks]
+System feedback provides status information, prompting cues, and error or warning messages.
 
----End of Questions---
+```
+ = True
+   False
+```
 
-Page 11 of 11
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CMPD173, Semester 2, 2022/2023
-
-SECTION A: MULTIPLE CHOICES (15 QUESTIONS, 30 MARKS)
-Instruction: Please CHOOSE the BEST answer from the choices given.
-
-1. A group of people who have interest in an information system are known as the
-
-90 WD >
-
-stakeholder
-in-house developer
-system analyst
-
-steering committee
-
-2. Determine the key elements that contribute to the development of a successful
-
-information system?
-
-I. Technique
-
-Hl. Tool
-III. Hardware
-IV. Process
-A. Iand I
-B. [and III
-C. [and I
-D. IlandIV
-3. An off-the shelf software meets at least of an organization’s need.
-A. 100%
-B. 90%
-C. 80%
-D. 70%
-4. The providers offer their computing resources over the Internet,
-therefore so customers do not have to invest in the computing infrastructure.
-A. open-source software
-B. enterprise solution software
-C. packaged software
-D. cloud computing
-
-Page 2 of 9
-
-CMPD173, Semester 2, 2022/2023
-
-Which of the following steps are NOT executed during the project identification
-and selection process?
-A. Classifying and ranking IS development projects.
-
-Identifying potential development projects.
-
-OD Ww
-
-Selecting [S development projects.
-
-U
-
-Assessing the IS project’s feasibility.
-
-Assessing the feasibility of an IS project, is often referred to as cost-benefit
-
-analysis.
-
-A. economic
-
-B. operational
-
-C. scheduling
-D
-
-. technical
-
-The process of helps a system analyst to understand the client’s
-expectation towards the new information system.
-
-A. requirement determination
-
-B. requirement structuring
-
-C. value chain analysis
-
-D. feasibility study
-
-Which of the following documents is NOT analyzed by the system analyst, during
-the process of requirement determination?
-
-A. Written work procedure
-
-B. Master test plan
-
-C. Business form and report
-
-D
-
-Existing system manual
-
-The in a data flow diagram is used to represent work or actions
-performed on data.
-
-A. data store
-
-B. process
-C. sink
-D. source
-
-Page 3 of 9
-
-CMPD173, Semester 2, 2022/2023
-
-10. The process of breaks an information system’s description down into finer
-
-11.
-
-12.
-
-13.
-
-and finer detail.
-
-A. data flow splitting
-
-B. functional decomposition
-C. structured walkthrough
-D
-
-. logic modeling
-
-In a use case description, the indicates the set of steps that must be taken
-by the actor and the solution obtained while each use case is being performed.
-
-A. pre-condition
-
-B. post-condition
-C. path
-D
-
-. action
-
-Which of the following options are NOT structural UML diagram?
-I. Deployment diagram
-JJ. Use case diagram
-II. Sequence diagram
-
-IV. Object diagram
-
-A. land III
-
-B. TandIV
-
-C. I and Il
-
-D. Wand IV
-
-The indicates the ways a user can move from one screen to another.
-A. wireframe
-
-B. system prototype
-
-C. design specification
-
-D. dialogue sequence
-
-Page 4 of 9
-
-CMPD173, Semester 2, 2022/2023
-
-14. The purpose of system is to convert the final physical system
-
-15.
-
-specifications into working and reliable software.
-A. methodology
-
-B. prototyping
-
-C. maintenance
-
-D. implementation
-
-Which of the following activities are NOT performed during the process of system
-maintenance?
-
-I. Project team evaluation
-
-JI. Obtaining maintenance requests
-
-III. Transforming requests into changes
-
-IV. Installation planning
-
-A. [and III
-B. IandIV
-C. IJand III
-D. I andIV
-
-Page 5 of 9
-
-CMPD173, Semester 2, 2022/2023
-
-SECTION B: SHORT ANSWER QUESTIONS (5 QUESTIONS, 35 MARKS)
-
-Instruction: Please answer ALL the questions.
-
-Question 1
-(a) List out FIVE (5) main components of information system.
-[S marks]
-
-(b) What is the similarity and difference between IT service firm and packaged
-
-software provider?
-[3 marks]
-
-Question 2
-(a) What is the main difference between one-time cost and recurring cost? Then,
-provide ONE (1) relevant example for each cost type.
-[4 marks]
-
-(b) |= What are the TWO (2) types of interview question that can be addressed to the
-
-interviewees? Briefly explain the main difference between these two types of
-
-questions.
-[4 marks]
-Question 3
-(a) Suggest THREE (3) general form or report formatting guidelines.
-[3 marks]
-(b) Determine THREE (3) types of system feedback.
-[3 marks]
-
-Page 6 of 9
-
-CMPD173, Semester 2, 2022/2023
-
-Question 4
-Determine and briefly explain THREE (3) mistakes from the following data flow
-
-diagram.
-
-Inquiry
-
-fe ™
-
-— Transport
-Travell fi ‘
-raveclling info details file
-
-Membership
-application form
-
- 
-
-& weekly
-
-report
-Figure 1
-[6 marks]
-
-Question 5
-(a) Name and briefly describe TWO (2) types of system maintenance.
-[4 marks]
-
-(b) Identify THREE (3) possible types of maintenance organizational structures.
-[3 marks]
-
-Page 7 of 9
-
-CMPDI173, Semester 2, 2022/2023
-
-SECTION C: DIAGRAMMING QUESTIONS (3 QUESTIONS, 35 MARKS)
-
-Instruction: Please answer ALL the questions.
-
-Question 1
-
-Generate a complete network diagram for the following Gantt chart as shown in Table
-
-1.
-
-Table 1
-
- 
-
-[11 marks]
-
-Question 2
-
-Draw a use case diagram for the scenario given below.
-
-LLM Hospital offers healthcare services for women and children, catering their needs
-and well-being. A reception system is created to deal with the reception process of
-handling patients’ appointments and admission to hospital. The hospital receptionist
-collects information from the patients upon their registrations. The receptionist will
-schedule the patients’ appointment and processes their hospital admissions accordingly.
-For patients who will stay overnight in the hospital, he or she should have a bed allotted
-in a ward. Meanwhile, for patients who will be getting day-care treatments, no bed will
-be reserved. The receptionist will also process the patients’ payment and update each
-
-patient’s future appointment.
-[13 marks]
-
-Page 8 of 9
-
-CMPD173, Semester 2, 2022/2023
-
-Question 3
-
-Being on outstanding system analyst in LLM corporation, you have been assigned to
-
-develop a complete decision table (and simplify the decision table if necessary)
-
-according to the information provided below.
-
-Conditions:
-
-oO
-
-oO
-
-Student’s CGPA are divided into three main categories:
-« — lesser than 2.0
-*» exactly 2.0
-» more than 2.0
-SCORUN points obtained by students falls under two main categories:
-« — less than 20 points
-
-» 20 points and above
-
-Possible actions:
-
-Oo
-
-O
-
-If a student’s CGPA is 2.0 or below, he will be sent to the academic advisor.
-If a student earns below 20 SCORUN points, he will be required to join
-counselling activity.
-
-A student will be sent to head of department, if his CGPA is lesser than 2.0;
-besides earning lesser than 20 SCORUN points.
-
-Otherwise, the student will proceed with his degree study.
-[11 marks]
-
----E.nd of Questions---
-
-Page 9 of 9
-
+<br>
