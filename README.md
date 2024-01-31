@@ -9,13 +9,25 @@ Maybank Malaysia Berhad wants to develop a new mobile application (app) dedicati
 
 <br>
 
-Astro is in the process of collecting information about its customers' details. They want to conduct an analysis about their customers' demographics such as age, gender and income. They send out emails with link to online survey to all of their customers. For all answered questionnaire, the customer will receive a gift voucher. Which of the followings is data? 
+Astro is in the process of collecting information about its customers' details. They want to conduct an analysis about their customers' demographics such as age, gender and income. They send out emails with link to online survey to all of their customers. For all answered questionnaire, the customer will receive a gift voucher.<br>
+
+Which of the followings is data? 
 
 ```
    A. surveys sent to customers
  = B. survey answered by customers
    C. analyzed data about customers' demographics
    D. gift vouchers
+```
+<br>
+
+Which of the followings is information? 
+
+```
+   A. survey answered by customers
+ = B. analyzed data about customers' demographics
+   C. gift vouchers
+   D. surveys sent to customers
 ```
 
 <br>
@@ -30,6 +42,19 @@ Which type of hardware will be used for this information system?
    C. mobile phones
    D. smart TVs
 ```
+
+<br>
+
+Which software source is applied?
+
+```
+   A. In-house development
+ = B. IT Services Firm
+   C. Enterprise Solutions Software
+   D. Cloud Computing 
+```
+
+<br>
 
 <br>
 
@@ -59,30 +84,6 @@ Maybank Malaysia Berhad wants to develop a new mobile application (app) dedicati
    B. financial
    C. in-house
  = D. outsource
-```
-
-<br>
-
-Rasa Sayang Hotel wants to modify its registration system. Ali, the Director of Customer Service Department noticed that the existing system does not cater for giving points for repeating customers. Ali recommends that by giving points which can be transferred to a discount voucher will attract more repeating customers. So, Ali pitched this idea to the hotels' IT team. However, the IT team is not able to modify the current system as they are just focusing at the technical aspects of the computers and network. Because of that, Rasa Sayang Hotel decided to pass the project to Teknologi Malaysia Sdn Bhd.  
-
-Which software source is applied?
-
-```
-   A. In-house development
- = B. IT Services Firm
-   C. Enterprise Solutions Software
-   D. Cloud Computing 
-```
-
-<br>
-
-Astro is in the process of collecting information about its customers' details. They want to conduct an analysis about their customers' demographics such as age, gender and income. They send out emails with link to online survey to all of their customers. For all answered questionnaire, the customer will receive a gift voucher. Which of the followings is information? 
-
-```
-   A. survey answered by customers
- = B. analyzed data about customers' demographics
-   C. gift vouchers
-   D. surveys sent to customers
 ```
 
 <br>
@@ -295,13 +296,13 @@ System Service Request (SSR): CIMB Clicks Mobile App Enhancement
 
 1. CIMB Clicks Mobile App
 
-2. Check account balance, view transaction history, transfer money, purchase online, pay bills and loans, invest through e-IPO, ASN   B. 
+2. Check account balance, view transaction history, transfer money, purchase online, pay bills and loans, invest through e-IPO, ASNB. 
 
 3.
 Tangible Benefit: Enhanced Security: FaceID & TouchID features ensure secure logins, protecting users from unauthorized access and potential financial risks.
 Intangible Benefit: Improved User Experience: The "Revamped" home screen contributes to a more user-friendly interface, enhancing overall user satisfaction and engagement.
 
-4. Ensuring the security and integrity of user data and financial transactions, especially with the implementation of advanced features like FaceID & TouchI   D. 
+4. Ensuring the security and integrity of user data and financial transactions, especially with the implementation of advanced features like FaceID & TouchID. 
 ```
 
 Comment: Q3a - must state in numbers or %
